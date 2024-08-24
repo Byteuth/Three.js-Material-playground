@@ -1,4 +1,4 @@
-# Three.js Starter Boilerplate
+# Byteuth  -  Three.js Starter Boilerplate
 
 Basic starter setup for Three.js projects, complete with essential components, controls, and a base GUI template.
 
@@ -48,11 +48,7 @@ To run this project locally:
 
 ```bash
 npm install
-
-# Run the local server at localhost:8080
 npm run dev
-
-# Build for production in the dist/ directory
-npm run build
 ```
-![Screenshot from 2024-08-18 14-47-41](https://github.com/user-attachments/assets/6a3178fb-6b38-44c8-8988-a15ed504b877)
+![Screenshot from 2024-08-24 17-53-52](https://github.com/user-attachments/assets/5e741b90-b0fc-4b15-b56b-cfdd6150ddda)
+
