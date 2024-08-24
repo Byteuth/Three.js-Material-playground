@@ -10,16 +10,6 @@ import { createCamera } from "./scene/camera.js";
 const canvas = document.querySelector("canvas.webgl");
 const scene = new THREE.Scene();
 
-const planeGeometry = new THREE.PlaneGeometry(10, 10, 10, 10);
-const planeMaterial = new THREE.MeshBasicMaterial({
-	color: 'orange',
-	side: THREE.DoubleSide,
-});
-const planeMesh = new THREE.Mesh(planeGeometry, planeMaterial);
-planeMesh.position.z = -.8
-
-scene.add(planeMesh);
-
 // HELPERS
 const axesHelper = createAxesHelper(1);
 const clock = new THREE.Clock();
