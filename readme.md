@@ -48,5 +48,11 @@ To run this project locally:
 
 ```bash
 npm install
+
+# Run the local server at localhost:8080
 npm run dev
+
+# Build for production in the dist/ directory
+npm run build
 ```
+![Screenshot from 2024-08-18 14-47-41](https://github.com/user-attachments/assets/6a3178fb-6b38-44c8-8988-a15ed504b877)
