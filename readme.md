@@ -1,5 +1,7 @@
-# Byteuth  -  Three.js Starter Boilerplate
 
+<img src="https://github.com/user-attachments/assets/2bff7c7f-a990-4fe9-b468-3ce9bb845fbf" alt="Profile Picture" width="60" height="60" style="border-radius:50%; margin-right: 10px;">
+
+## Byteuth - Three.js Starter Boilerplate
 Basic starter setup for Three.js projects, complete with essential components, controls, and a base GUI template.
 
 ## Features
